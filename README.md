@@ -82,7 +82,7 @@ The project includes several visualizations to illustrate trends and patterns:
 
 1. Programming Language: R
 
-2. Libraries Used: ggplot2, dplyr, tidyr
+2. Libraries Used: ggplot2, tidyverse, patchwork
 
 3. Analysis Techniques: Data cleaning, exploratory data analysis (EDA), and visualization
 
